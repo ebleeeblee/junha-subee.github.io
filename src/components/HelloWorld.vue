@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <h1>황준하 <font-awesome-icon :icon="['fas','heart']"/> 이수빈 결혼합니다</h1>
-    <img alt="Vue logo" src="../assets/subeen.jpeg">
+    <!-- <img alt="Vue logo" src="../assets/subeen.jpeg"> -->
     <p>
       2022.05.29 일요일 PM 3:30
       공덕 아펠가모
